@@ -1,0 +1,1 @@
+En esta carpeta hay algunos ficheros de texto de prueba para probar las funcionalidades de control de versiones de Git. El contenido de los mismos es irrelvante, es simplemente texto de relleno.
