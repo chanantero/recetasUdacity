@@ -9,8 +9,8 @@ G
 I
 J
 K
-L
-M
+tres
+cinco
 N
 O
 dos
