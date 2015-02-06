@@ -9,7 +9,8 @@ G
 I
 J
 K
-L
+tres
+cuatro
 M
 N
 O
