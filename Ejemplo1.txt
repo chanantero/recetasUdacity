@@ -1,6 +1,7 @@
 A
 B
-D
+seis
+siete
 E
 uno
 F
