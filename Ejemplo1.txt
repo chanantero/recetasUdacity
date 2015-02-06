@@ -1,6 +1,5 @@
 A
 B
-D
 E
 uno
 F
@@ -25,7 +24,6 @@ O
 dos
 Q
 R
-T
 U
 
 W
