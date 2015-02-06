@@ -9,8 +9,17 @@ G
 I
 J
 K
+<<<<<<< HEAD
 tres
 cinco
+||||||| merged common ancestors
+L
+M
+=======
+tres
+cuatro
+M
+>>>>>>> rama1
 N
 O
 dos
