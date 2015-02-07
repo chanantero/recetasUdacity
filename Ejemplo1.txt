@@ -1,5 +1,12 @@
 A
 B
+<<<<<<< HEAD
+||||||| merged common ancestors
+D
+=======
+seis
+siete
+>>>>>>> rama2
 E
 uno
 F
