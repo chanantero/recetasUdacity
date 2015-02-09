@@ -39,3 +39,4 @@ Y
 Z
 
 Línea añadida para crear una rama alternativa
+Línea añadida para ver qué pasa si hago un merge en el caso de que sea conveniente un fast-forward.
